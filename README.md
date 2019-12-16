@@ -1,0 +1,1 @@
+spring boot 整合 dubbo提供者 xml dubbo原生的的形式
